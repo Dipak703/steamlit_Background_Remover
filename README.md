@@ -30,8 +30,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <Dipak703/steamlit_Background_Remover>
+   cd <Dipak703/steamlit_Background_Remover>
    ```
 
 2. Install dependencies:
