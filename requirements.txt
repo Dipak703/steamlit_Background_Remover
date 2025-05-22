@@ -1,0 +1,10 @@
+altair
+pandas
+numpy
+pillow
+transparent-background == 1.3.4
+pymatting
+streamlit
+opencv-python-headless
+torch
+timm
