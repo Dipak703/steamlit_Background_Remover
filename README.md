@@ -59,7 +59,7 @@ Ensure you have the following installed:
 
 ## Code Explanation
 
-### Main Functions
+### app Functions
 
 1. **`process_image(image)`**
 
@@ -67,7 +67,7 @@ Ensure you have the following installed:
    * Uses the `transparent-background` library to remove the background and return a processed image in RGBA format.
    * Handles exceptions and displays error messages if processing fails.
 
-2. **`main()`**
+2. **`app()`**
 
    * Sets up the Streamlit interface.
    * Handles image uploads and previews both the original and processed images.
